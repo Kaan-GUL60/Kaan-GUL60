@@ -1,4 +1,4 @@
-## Hi there 👋
+## Merhaba 👋
 
 <!--
 **Kaan-GUL60/Kaan-GUL60** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
