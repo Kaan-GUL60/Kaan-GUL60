@@ -1,6 +1,11 @@
 ## Merhaba 👋
 
 **[Buradan](https://kgs.infinityfreeapp.com/) web sitemize ulaşarak daha fazla bilgi edinebilirsiniz.**
+
+<div align="center" dir="auto">
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/99794108b1606ef058fdf2ec1f529b6b7b0abebf2571fea175b787e8a0db445b/68747470733a2f2f70726f66696c652d726561646d652d67656e657261746f722e636f6d2f6173736574732f736e616b652e737667"><img src="https://camo.githubusercontent.com/99794108b1606ef058fdf2ec1f529b6b7b0abebf2571fea175b787e8a0db445b/68747470733a2f2f70726f66696c652d726561646d652d67656e657261746f722e636f6d2f6173736574732f736e616b652e737667" alt="Snake animation" data-canonical-src="https://profile-readme-generator.com/assets/snake.svg" style="max-width: 100%;"></a>
+</div>
+
 <!--
 **Kaan-GUL60/Kaan-GUL60** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
