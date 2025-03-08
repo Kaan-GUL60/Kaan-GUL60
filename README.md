@@ -4,7 +4,7 @@
 
 Yeni geliştirdiğimiz KGS YKS Destek mobil uygulaması çok yakında yayınlacak. Hemen incelemek [Buradan](https://kgs.infinityfreeapp.com/products/kgs-yks-destek/index.html) ulaşabilirsiniz.
 
-![Animation](https://kgs.infinityfreeapp.com/img/giyhub.svg)
+![Animation](https://raw.githubusercontent.com/Kaan-GUL60/Kaan-GUL60/refs/heads/main/github_animation.svg)
 
 <!--
 **Kaan-GUL60/Kaan-GUL60** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
