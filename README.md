@@ -1,6 +1,6 @@
 ## Merhaba 👋
 
-**[Buradan](https://kgs.infinityfreeapp.com/) web sitemize ulaşarak daha fazla bilgi edinebilirsiniz.**
+**[Buradan](https://kgstech.net/) web sitemize ulaşarak daha fazla bilgi edinebilirsiniz.**
 
 Yeni geliştirdiğimiz KGS YKS Destek mobil uygulaması çok yakında yayınlacak. Hemen incelemek [Buradan](https://kgs.infinityfreeapp.com/products/kgs-yks-destek/index.html) ulaşabilirsiniz.
 
