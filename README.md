@@ -2,7 +2,7 @@
 
 **[Buradan](https://kgstech.net/) web sitemize ulaşarak daha fazla bilgi edinebilirsiniz.**
 
-Yeni geliştirdiğimiz KGS YKS Destek mobil uygulaması çok yakında yayınlacak. Hemen incelemek [Buradan](https://kgs.infinityfreeapp.com/products/kgs-yks-destek/index.html) ulaşabilirsiniz.
+Yeni geliştirdiğimiz KGS YKS Destek mobil uygulaması çok yakında yayınlacak. Hemen incelemek [Buradan](https://kgstech.net/kgs-yks-destek/) ulaşabilirsiniz.
 
 ![Animation](https://raw.githubusercontent.com/Kaan-GUL60/Kaan-GUL60/refs/heads/main/github_animation.svg)
 
