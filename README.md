@@ -1,23 +1,36 @@
-## Merhaba 👋
+# Selam! Ben Kaan GÜL 👋
 
-**[Buradan](https://kgstech.net/) web sitemize ulaşarak daha fazla bilgi edinebilirsiniz.**
+### 👨‍💻 Hakkımda
+Süleyman Demirel Üniversitesi Bilgisayar Mühendisliği Öğrencisiyim. Deneyap Mezunuyum. Teknofest Finalistiyim.
 
-Yeni geliştirdiğimiz KGS YKS Destek mobil uygulaması çok yakında yayınlacak. Hemen incelemek [Buradan](https://kgstech.net/kgs-yks-destek/) ulaşabilirsiniz.
+---
 
-![Animation](https://raw.githubusercontent.com/Kaan-GUL60/Kaan-GUL60/refs/heads/main/github_animation.svg)
+### 🛠 Teknolojiler ve Araçlar
 
-<!--
-**Kaan-GUL60/Kaan-GUL60** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,kotlin,flutter,c,cpp,cs" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...![Uploading giyhub.svg…]()
+### 📊 GitHub İstatistiklerim
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kaan-GUL60&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kaan-GUL60&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaan-GUL60&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+</p>
 
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📬 Bana Ulaşın
+
+<p align="left">
+<a href="https://linkedin.com/in/gka783" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="mailto:kaan.gul.developer@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="30" width="40" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kaan-GUL60&label=Profil+Görüntüleme&color=0e75b6&style=flat" alt="Views" />
+</p>
