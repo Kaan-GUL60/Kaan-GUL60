@@ -33,8 +33,14 @@ Teknoloji odaklı gelişim yolculuğumu mühendislik, eğitim ve girişimcilik t
 ### 📊 GitHub İstatistiklerim
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaan-gul&show_icons=true&theme=merko" alt="Kaan's GitHub Stats" />
-  <br><br>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=kaan-gul&show_icons=true&theme=merko" alt="Kaan's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kaan-gul&layout=compact&theme=merko" alt="Kaan's Top Langs" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaan-gul&theme=merko" alt="Kaan's Streak" />
 </p>
 
