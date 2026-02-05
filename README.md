@@ -1,4 +1,4 @@
-# Selam! Ben Kaan GÜL 👋 
+# Merhaba, Ben Kaan GÜL
 
 ### 💻 Bilgisayar Mühendisliği Öğrencisi | 🎓 T3 Vakfı Eğitmen Mentor | 💡 Girişimci
 
