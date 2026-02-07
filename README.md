@@ -25,7 +25,7 @@ Teknoloji odaklı gelişim yolculuğumu mühendislik, eğitim ve girişimcilik t
 
 **Araçlar & Platformlar**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,arduino,androidstudio,firebase" />
+  <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,arduino,androidstudio,firebase,pycharm,idea" />
 </p>
 
 ---
