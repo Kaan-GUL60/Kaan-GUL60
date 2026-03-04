@@ -37,7 +37,7 @@ Teknoloji odaklı gelişim yolculuğumu mühendislik, eğitim ve girişimcilik t
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kaan-gul&layout=compact&theme=merko" alt="Kaan's Top Langs" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kaan-gul&layout=compact&theme=merko&hide=html,css" alt="Kaan's Top Langs" />
 </p>
 
 <p align="center">
