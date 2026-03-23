@@ -20,7 +20,7 @@ Teknoloji odaklı gelişim yolculuğumu mühendislik, eğitim ve girişimcilik t
 
 **Diller & Frameworkler**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,kotlin,flutter,c,cpp,cs,dart" />
+  <img src="https://skillicons.dev/icons?i=py,kotlin,flutter,cpp,cs,dart,java" />
 </p>
 
 **Araçlar & Platformlar**
